@@ -13,7 +13,7 @@ A Google Cloud Storage adapter for [flysystem](https://github.com/thephpleague/f
 ## Installation
 
 ```bash
-composer require superbalist/flysystem-google-storage
+composer require weedgood/flysystem-google-storage
 ```
 
 ## Integrations
