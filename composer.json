@@ -1,5 +1,5 @@
 {
-	"name": "weedgood/flysystem-google-storage",
+	"name": "weedgood/flysystem-google-cloud-storage",
 	"description": "Flysystem adapter for Google Cloud Storage",
 	"license": "MIT",
 	"authors": [
