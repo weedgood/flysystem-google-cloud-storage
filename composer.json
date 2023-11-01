@@ -19,7 +19,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Weedgood\\Flysystem\\GoogleStorage\\": "src/"
+			"Weedgood\\Flysystem\\GoogleCloudStorage\\": "src/"
 		}
 	},
 	"config": {
